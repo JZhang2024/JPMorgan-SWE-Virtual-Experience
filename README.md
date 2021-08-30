@@ -7,4 +7,4 @@ This repository includes all the tasks with code changes and the uploaded patch 
 https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program
 
 ## Course Completion Certificate:
-![Certificate of Completion](https://github.com/[JZhang2024]/[JPMorgan-SWE-Virtual-Experience]/blob/[main]/certificate-of-completion.pdfraw=true)
+![Certificate of Completion](https://github.com/[JZhang2024]/[JPMorgan-SWE-Virtual-Experience]/blob/[main]/certificate-of-completion.pdf?raw=true)
